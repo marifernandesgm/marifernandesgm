@@ -114,34 +114,28 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 
 <div align="center">
 
-### Front-End
+<p><strong>Front-End</strong></p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 
-<br><br>
-
-### Programação
+<p><strong>Programação</strong></p>
 
 <img src="https://skillicons.dev/icons?i=python,java" />
 
-<br><br>
-
-### Banco de Dados
+<p><strong>Banco de Dados</strong></p>
 
 <img src="https://skillicons.dev/icons?i=oracle" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/SQL-341539?style=for-the-badge&logo=databricks&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/SQL%20Developer-6B21A8?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
 
-<br><br>
-
-### Ferramentas
+<p><strong>Ferramentas</strong></p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Google%20Colab-341539?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/IBM%20Watson-6B21A8?style=for-the-badge&logo=ibm&logoColor=FFFFFF"/>
@@ -150,7 +144,6 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 </div>
 
 ---
-
 ## Conhecimentos
 
 | Área | Tecnologias |
