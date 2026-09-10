@@ -4,9 +4,7 @@
 />
 
 <div align="center">
-
-# Marina Fernandes
-
+  
 <p>
   FIAP • Front-End • Desenvolvimento de Software
 </p>
@@ -68,7 +66,7 @@ O projeto está sendo desenvolvido utilizando uma estrutura moderna para aplica�
 
 #### Tecnologias
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github" />
 </p>
 
@@ -116,30 +114,30 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 
 ### Front-End
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
 ### Programação
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ### Banco de Dados
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=oracle" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-341539?style=for-the-badge&logo=databricks&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/SQL%20Developer-6B21A8?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
 </p>
 
 ### Ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma" />
 </p>
 
@@ -191,11 +189,7 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=marifernandesgm&layout=compact&hide_border=true&bg_color=341539&title_color=D8B4FE&text_color=F3E8FF"
 />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
   src="https://streak-stats.demolab.com?user=marifernandesgm&hide_border=true&background=341539&ring=C084FC&fire=A855F7&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=F3E8FF&sideNums=F3E8FF&dates=C4B5FD"
@@ -210,8 +204,7 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=marifernandesgm&bg_color=341539&color=D8B4FE&line=A855F7&point=FFFFFF&area=true&hide_border=true"
-  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=marifernandesgm&bg_color=341539&color=D8B4FE&line=A855F7&point=C084FC&area=true&hide_border=true"
 />
 
 </div>
@@ -268,9 +261,7 @@ São Paulo — SP
 
 <div align="center">
 
-**Marina Fernandes**
-
-Estudante de ADS • FIAP • Front-End
+Estudante de ADS • FIAP • Desenvolvimento
 
 </div>
 
