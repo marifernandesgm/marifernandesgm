@@ -124,7 +124,7 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 
 <p><strong>Banco de Dados</strong></p>
 
-<img src="https://skillicons.dev/icons?i=oracle" />
+<img src="https://img.shields.io/badge/Oracle-341539?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
 
 <br>
 
