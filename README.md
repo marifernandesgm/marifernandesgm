@@ -112,40 +112,42 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 
 ## Tecnologias
 
-<p align="center">
+<div align="center">
+
 ### Front-End
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 
-<p align="center">
+<br><br>
+
 ### Programação
-  
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java" />
+
+<br><br>
+
 ### Banco de Dados
 
-  <img src="https://skillicons.dev/icons?i=oracle" />
-</p>
+<img src="https://skillicons.dev/icons?i=oracle" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-341539?style=for-the-badge&logo=databricks&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/SQL%20Developer-6B21A8?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/SQL-341539?style=for-the-badge&logo=databricks&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SQL%20Developer-6B21A8?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
+
+<br><br>
+
 ### Ferramentas
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Colab-341539?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/IBM%20Watson-6B21A8?style=for-the-badge&logo=ibm&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Node--RED-8B5CF6?style=for-the-badge&logo=nodered&logoColor=FFFFFF"/>
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/Google%20Colab-341539?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/IBM%20Watson-6B21A8?style=for-the-badge&logo=ibm&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Node--RED-8B5CF6?style=for-the-badge&logo=nodered&logoColor=FFFFFF"/>
+
+</div>
 
 ---
 
