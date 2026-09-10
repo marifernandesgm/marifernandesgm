@@ -1,5 +1,5 @@
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:341539,50:6B21A8,100:A855F7&height=230&section=header&text=Marina%20Fernandes&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Estudante de Análise e Desenvolvimento de Sistemas%20%E2%80%A2%20FIAP%20%E2%80%A2%20Desenvolvimento&descAlignY=63&descSize=17&descColor=F3E8FF"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:341539,50:6B21A8,100:A855F7&height=230&section=header&text=Marina%20Fernandes&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20%E2%80%A2%20FIAP&descAlignY=63&descSize=17&descColor=F3E8FF"
   width="100%"
 />
 
@@ -68,7 +68,7 @@ O projeto está sendo desenvolvido utilizando uma estrutura moderna para aplica�
 
 #### Tecnologias
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github" />
 </p>
 
