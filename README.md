@@ -112,21 +112,21 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 
 ## Tecnologias
 
+<p align="center">
 ### Front-End
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
-### Programação
-
 <p align="center">
+### Programação
+  
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
+<p align="center">
 ### Banco de Dados
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=oracle" />
 </p>
 
@@ -135,9 +135,9 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
   <img src="https://img.shields.io/badge/SQL%20Developer-6B21A8?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
 </p>
 
+<p align="center">
 ### Ferramentas
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma" />
 </p>
 
@@ -180,31 +180,7 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 <div align="center">
 
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=marifernandesgm&show_icons=true&count_private=true&hide_border=true&bg_color=341539&title_color=D8B4FE&icon_color=C084FC&text_color=F3E8FF"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marifernandesgm&layout=compact&hide_border=true&bg_color=341539&title_color=D8B4FE&text_color=F3E8FF"
-/>
-
-<br><br>
-
-<img
   src="https://streak-stats.demolab.com?user=marifernandesgm&hide_border=true&background=341539&ring=C084FC&fire=A855F7&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=F3E8FF&sideNums=F3E8FF&dates=C4B5FD"
-/>
-
-</div>
-
----
-
-## Atividade
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=marifernandesgm&bg_color=341539&color=D8B4FE&line=A855F7&point=C084FC&area=true&hide_border=true"
 />
 
 </div>
