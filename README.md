@@ -1,13 +1,11 @@
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:341539,50:6B21A8,100:A855F7&height=230&section=header&text=Marina%20Fernandes&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=FIAP%20%E2%80%A2%20Front-End%20%E2%80%A2%20ADS&descAlignY=63&descSize=17&descColor=F3E8FF"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:341539,50:6B21A8,100:A855F7&height=230&section=header&text=Marina%20Fernandes&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Estudante de Análise e Desenvolvimento de Sistemas%20%E2%80%A2%20FIAP%20%E2%80%A2%20Desenvolvimento&descAlignY=63&descSize=17&descColor=F3E8FF"
   width="100%"
 />
 
 <div align="center">
 
 # Marina Fernandes
-
-### Estudante de Análise e Desenvolvimento de Sistemas
 
 <p>
   FIAP • Front-End • Desenvolvimento de Software
