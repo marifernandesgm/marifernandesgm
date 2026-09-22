@@ -118,7 +118,7 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 
-<p><strong>Programação</strong></p>
+<p><strong>Back-End</strong></p>
 
 <img src="https://skillicons.dev/icons?i=python,java" />
 
