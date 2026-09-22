@@ -6,7 +6,7 @@
 <div align="center">
   
 <p>
-  FIAP • Front-End • Desenvolvimento de Software
+  Desenvolvedora de Software em formação
 </p>
 
 <br>
