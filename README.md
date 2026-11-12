@@ -44,7 +44,7 @@ Atualmente, estou aprimorando meus conhecimentos em **React, TypeScript, Vite e 
 
 ## Projetos
 
-### Portal de Locais Acessíveis (em andamento)
+### Portal de Locais Acessíveis (finalizado)
 
 Projeto em desenvolvimento voltado para a **localização e consulta de locais acessíveis**, buscando facilitar o acesso a informações relacionadas à acessibilidade.
 
@@ -56,9 +56,11 @@ No projeto, atuo como **QA**, realizando testes e validações das funcionalidad
   <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,git,github" />
 </p>
 
+[Repositório](https://github.com/1TDSPH-26/portal-locais-acessiveis)
+
 ---
 
-### MoveUp (em andamento)
+### MoveUp (finalizado)
 
 Plataforma Web desenvolvida em equipe durante a formação do curso para as Sprints 3 e 4 do Challenge da SoulUP.
 
@@ -70,7 +72,7 @@ O projeto está sendo desenvolvido utilizando uma estrutura moderna para aplica�
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github" />
 </p>
 
-[Repositório](https://github.com/MoveUp-Organization/MoveUp)
+[Organização](https://github.com/MoveUp-Organization)
 
 ---
 
@@ -107,6 +109,24 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 </p>
 
 [Repositório](https://github.com/CHALLENGMOVEUP/CHALLENGE)
+
+---
+
+### Polieus - Global Solution (em andamento)
+
+Projeto multidisciplinar desenvolvido para a **Global Solution FIAP 2026**, integrando conhecimentos de diferentes matérias do curso de Análise e Desenvolvimento de Sistemas.
+
+O **Polieus** é uma plataforma tecnológica voltada à participação cidadã, acessibilidade e democracia, reunindo soluções para promover maior interação entre a população e os serviços públicos.
+
+O projeto está sendo desenvolvido de forma colaborativa, aplicando conceitos de **Front-End, Domain Driven Design Using Java, Python, Banco de Dados, Inteligência Artificial e Engenharia de Software**, com foco na integração de sistemas e no desenvolvimento de uma solução completa.
+
+#### Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,tailwind,java,python,html,css,git,github" />
+</p>
+
+[Organização](https://github.com/POLITECH-Global-Solution)
 
 ---
 
