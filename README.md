@@ -112,6 +112,26 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais do Front-End, per
 
 ---
 
+### MindMatch - Jogo da Memória (finalizado)
+
+Projeto acadêmico desenvolvido em equipe para o **Checkpoint 4 de Pensamento Computacional da FIAP**, com o objetivo de aplicar conhecimentos de programação utilizando **Python**.
+
+O **MindMatch** é um jogo da memória com interface gráfica e temática de séries, no qual dois jogadores competem para encontrar pares de cartas em um tabuleiro interativo. O projeto conta com sistema de pontuação, embaralhamento de cartas, cronômetro e identificação do vencedor.
+
+Durante o desenvolvimento, foram aplicados conceitos de **lógica de programação, funções, estruturas condicionais, laços de repetição, listas e matrizes bidimensionais**, além da utilização de bibliotecas para construção da interface gráfica.
+
+#### Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Bibliotecas:** Tkinter, Pillow, Random, Math e Time.
+
+[Repositório](https://github.com/isabelleferreiraa/jogo-da-memoria)
+
+---
+
 ### Polieus - Global Solution (em andamento)
 
 Projeto multidisciplinar desenvolvido para a **Global Solution FIAP 2026**, integrando conhecimentos de diferentes matérias do curso de Análise e Desenvolvimento de Sistemas.
